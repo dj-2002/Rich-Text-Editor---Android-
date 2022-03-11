@@ -1,1 +1,1 @@
-# Rich-Text-Editor---Android-
+# Rich-Text-Editor Android
